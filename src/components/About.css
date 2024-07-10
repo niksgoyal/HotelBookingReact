@@ -1,0 +1,47 @@
+.about-us {
+  background-color: #f8f9fa;
+}
+
+.hero-section {
+  background: url("./download.jpg") no-repeat center center;
+  background-size: cover; /* Ensures the image covers the entire section */
+  padding: 100px 0;
+  color: #fff;
+}
+
+.hero-content h1 {
+  font-size: 4rem;
+  margin-bottom: 0.5rem;
+}
+
+.hero-content p {
+  font-size: 1.5rem;
+}
+
+.card {
+  margin-bottom: 1rem;
+}
+
+.history-card {
+  border-color: #6c757d;
+}
+
+.mission-card {
+  border-color: #007bff;
+}
+
+.values-card {
+  border-color: #28a745;
+}
+
+footer {
+  background-color: #343a40;
+  color: #fff;
+}
+.hero-section {
+  background: url("./download.jpg") no-repeat center center;
+  background-size: cover;
+  top: 5%;
+  padding: 100px 0;
+  color: #fff;
+}
